@@ -1,4 +1,4 @@
-"use strict";
+" use strict";
 
 const numberOfNews = +prompt("Siz qancha yangliki ko'rdingiz?");
 
